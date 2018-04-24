@@ -1,0 +1,24 @@
+program
+begin
+if b <= 0 then
+begin
+while a <= 1 do
+begin
+a = + a b;
+c = + a 1
+end;
+begin
+begin
+begin
+b = * b b
+end
+end
+end
+end
+else
+begin
+a = * a b;
+c = * c + a b
+end;
+c = + a b
+end.

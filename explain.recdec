@@ -1,0 +1,8 @@
+location of code: in dsunix home directory
+
+language: C
+
+how to build: gcc recdec -o recdec
+
+             ./recdec < f or f1 or f2
+
